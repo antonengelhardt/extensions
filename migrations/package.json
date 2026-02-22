@@ -14,7 +14,7 @@
     "directory": "migrations"
   },
   "dependencies": {
-    "jscodeshift": "^0.15.2",
+    "jscodeshift": "^17.3.0",
     "semver": "^7.6.0"
   },
   "devDependencies": {
