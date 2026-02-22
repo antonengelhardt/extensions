@@ -73,7 +73,7 @@
     "@raycast/api": "^1.51.1",
     "@types/uuid": "^9.0.1",
     "axios": "^1.4.0",
-    "bn.js": "^5.2.1",
+    "bn.js": "^5.2.3",
     "debounce": "^1.2.1",
     "mixpanel": "^0.17.0",
     "starknet": "^5.10.2",
