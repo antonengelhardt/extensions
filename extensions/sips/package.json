@@ -1061,7 +1061,7 @@
     "@raycast/utils": "^1.18.1",
     "mathjs": "^14.2.1",
     "svgo": "^3.3.2",
-    "tar": "^7.4.3"
+    "tar": "^7.5.10"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.11",
