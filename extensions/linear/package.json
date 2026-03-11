@@ -1582,7 +1582,7 @@
     "@raycast/api": "^1.87.0",
     "@raycast/utils": "^1.17.0",
     "date-fns": "^3.6.0",
-    "file-type": "^19.0.0",
+    "file-type": "^21.3.1",
     "lodash": "^4.17.21",
     "nanoid": "^5.0.7",
     "node-emoji": "^2.1.3",
