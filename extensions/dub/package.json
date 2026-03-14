@@ -50,7 +50,7 @@
     "@raycast/api": "^1.61.2",
     "@raycast/utils": "^1.16.0",
     "dub": "^0.46.2",
-    "undici": "^6.19.2"
+    "undici": "^6.24.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.6",
