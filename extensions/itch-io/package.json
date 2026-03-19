@@ -43,7 +43,7 @@
     "@raycast/api": "^1.79.0",
     "@raycast/utils": "^1.16.2",
     "dedent-js": "^1.0.1",
-    "fast-xml-parser": "^4.0.7",
+    "fast-xml-parser": "^5.5.7",
     "node-fetch": "^3.0.0"
   },
   "devDependencies": {
