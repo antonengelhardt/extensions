@@ -520,7 +520,7 @@
     "papaparse": "^5.4.1",
     "placeholders-toolkit": "^0.1.5",
     "xml-js": "^1.6.11",
-    "yaml": "^2.3.2"
+    "yaml": "^2.8.3"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.8",
