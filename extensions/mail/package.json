@@ -146,7 +146,7 @@
     "javascript-time-ago": "^2.5.10",
     "json2md": "^1.13.0",
     "juice": "^9.1.0",
-    "mailparser": "^3.7.1",
+    "mailparser": "^3.9.6",
     "mime-types": "^2.1.35",
     "turndown": "^7.2.0",
     "utf8": "^3.0.0"
